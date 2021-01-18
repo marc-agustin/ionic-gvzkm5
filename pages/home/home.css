@@ -10,5 +10,8 @@ p {
  text-align: justify;
 }
 img {
-  align-content: center;
+  height: auto;
+  width: auto;
+  margin: auto;
+  display: block;
 }
